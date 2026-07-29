@@ -162,8 +162,8 @@ Open the Power BI dashboard file in **Power BI Desktop** to explore the interact
 
 **Thomas Aldo** — Data Analyst Intern, Elevate Labs
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/thomas-aldo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://github.com/ThomasAldo)
 
 ---
 
