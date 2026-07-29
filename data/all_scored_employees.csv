@@ -1,0 +1,295 @@
+Age,Department,JobRole,MonthlyIncome,OverTime,JobSatisfaction,YearsAtCompany,MaritalStatus,Attrition_Probability,Actual_Attrition,Predicted_Attrition
+21,Sales,Sales Representative,2174,Yes,2,3,Single,0.9914551430255442,1,1
+25,Sales,Sales Representative,1118,Yes,4,1,Single,0.9860472441109255,1,1
+19,Sales,Sales Representative,2121,Yes,2,1,Single,0.9755423923769763,1,1
+40,Sales,Sales Executive,9094,Yes,2,5,Single,0.9643194509579548,1,1
+26,Research & Development,Research Scientist,2042,Yes,1,3,Married,0.9564526688117924,1,1
+50,Sales,Sales Representative,2683,Yes,3,3,Married,0.9295655398198613,1,1
+33,Research & Development,Research Scientist,3348,Yes,1,10,Single,0.9179860193016456,1,1
+31,Sales,Sales Executive,4559,Yes,3,2,Married,0.915014115759731,1,1
+33,Sales,Sales Executive,8224,Yes,1,5,Single,0.9145333624813475,1,1
+25,Sales,Sales Representative,4400,No,1,3,Married,0.9097490008964215,1,1
+24,Sales,Sales Executive,4577,No,3,2,Single,0.9058430000847383,1,1
+38,Sales,Sales Representative,2858,No,1,1,Single,0.9052290278302034,0,1
+26,Sales,Sales Executive,5828,Yes,4,8,Single,0.900086750203309,1,1
+42,Research & Development,Laboratory Technician,4272,No,4,1,Single,0.886789371560577,0,1
+29,Sales,Sales Representative,2800,Yes,3,3,Divorced,0.8866524496720563,1,1
+18,Sales,Sales Representative,1200,No,3,0,Single,0.8850296245140865,0,1
+29,Research & Development,Research Scientist,2404,Yes,1,0,Single,0.8691359190530009,1,1
+41,Sales,Sales Representative,3140,Yes,2,4,Single,0.8688027687967177,1,1
+37,Research & Development,Laboratory Technician,2090,Yes,3,0,Single,0.8446081721179075,1,1
+30,Research & Development,Laboratory Technician,2422,No,2,3,Single,0.842216262570989,1,1
+47,Sales,Sales Representative,2976,No,3,0,Single,0.8389756950424111,0,1
+51,Research & Development,Laboratory Technician,2838,No,3,7,Single,0.8215486912889419,0,1
+29,Research & Development,Research Scientist,2389,Yes,4,4,Single,0.8205174515362454,1,1
+40,Sales,Sales Executive,9705,No,2,1,Divorced,0.8073795650997568,0,1
+31,Human Resources,Human Resources,6410,No,1,2,Married,0.789796973547305,0,1
+21,Sales,Sales Representative,3447,No,3,3,Single,0.7883574740889632,0,1
+24,Research & Development,Laboratory Technician,3597,No,2,4,Single,0.7755701661138128,0,1
+35,Sales,Sales Executive,4581,Yes,4,11,Single,0.775016690415425,1,1
+38,Sales,Sales Executive,6861,Yes,4,1,Single,0.7741465646666237,0,1
+28,Research & Development,Laboratory Technician,3867,Yes,4,2,Married,0.7732660430736212,0,1
+31,Research & Development,Research Scientist,2321,Yes,1,3,Single,0.7665422498998485,1,1
+35,Research & Development,Laboratory Technician,4425,No,2,6,Single,0.7644421825392662,0,1
+25,Sales,Sales Executive,4487,Yes,4,5,Single,0.7642304349765024,0,1
+32,Research & Development,Laboratory Technician,3730,Yes,3,3,Single,0.7562141786351865,1,1
+24,Research & Development,Research Scientist,3760,Yes,4,6,Single,0.7502336914245673,0,1
+30,Research & Development,Manufacturing Director,9667,No,3,7,Single,0.7474109695408565,0,1
+51,Sales,Sales Executive,10596,No,2,4,Married,0.7346302894936367,0,1
+36,Research & Development,Manufacturing Director,4663,Yes,3,3,Married,0.7316003298567507,0,1
+35,Sales,Sales Representative,2430,No,3,5,Married,0.719963609821359,0,1
+35,Research & Development,Laboratory Technician,3681,No,4,3,Single,0.7183598451729831,0,1
+32,Sales,Sales Executive,9610,No,3,4,Married,0.7148006115785507,0,1
+38,Research & Development,Research Scientist,3057,Yes,3,1,Married,0.712117527542464,0,1
+27,Research & Development,Research Scientist,2478,Yes,2,4,Single,0.7117533337347884,0,1
+22,Research & Development,Laboratory Technician,2871,No,4,0,Single,0.706349223652498,0,1
+35,Research & Development,Research Scientist,4249,Yes,3,9,Single,0.7008725477987282,0,1
+35,Research & Development,Laboratory Technician,2705,No,3,5,Married,0.6968069908134358,0,1
+40,Research & Development,Manufacturing Director,7945,Yes,4,4,Single,0.6955373798243919,0,1
+54,Sales,Sales Executive,10686,No,3,9,Married,0.6948168437754958,0,1
+35,Research & Development,Healthcare Representative,10388,Yes,3,16,Divorced,0.6911659887762689,0,1
+48,Research & Development,Laboratory Technician,2559,No,2,1,Single,0.6838858672557675,0,1
+25,Sales,Sales Executive,4256,No,1,5,Married,0.6818479938801173,0,1
+22,Research & Development,Research Scientist,2853,Yes,4,0,Married,0.6707818273922524,1,1
+29,Sales,Sales Representative,2157,No,4,3,Married,0.6667119354285529,0,1
+37,Research & Development,Healthcare Representative,4777,No,2,1,Married,0.6630150791279754,1,1
+39,Human Resources,Human Resources,6389,No,2,8,Married,0.6514752662405151,0,1
+56,Research & Development,Research Scientist,4963,Yes,2,5,Married,0.6506238575815091,1,1
+48,Sales,Sales Representative,2655,Yes,3,9,Married,0.6485945673630493,1,1
+35,Human Resources,Human Resources,8837,Yes,4,9,Single,0.6464089470603617,0,1
+36,Research & Development,Research Scientist,3388,Yes,3,1,Married,0.6378301857138419,1,1
+47,Sales,Sales Representative,3294,Yes,4,3,Single,0.6244611939843467,0,1
+42,Research & Development,Research Scientist,2759,Yes,3,2,Divorced,0.6200800679417914,1,1
+44,Human Resources,Human Resources,10482,No,1,20,Married,0.6157256334864254,1,1
+36,Sales,Sales Executive,6134,Yes,1,2,Divorced,0.6097063039005128,1,1
+23,Research & Development,Laboratory Technician,3295,No,2,3,Single,0.6017205451744044,0,1
+34,Sales,Sales Executive,9888,No,4,14,Single,0.5980953954102703,0,1
+39,Research & Development,Manager,19272,No,4,21,Married,0.5958966031524869,0,1
+50,Sales,Sales Executive,4728,Yes,3,0,Single,0.5905982425347462,1,1
+31,Sales,Sales Representative,2791,No,4,2,Married,0.5815744008444427,0,1
+36,Sales,Sales Representative,4502,No,4,13,Single,0.5697948449148615,0,1
+29,Research & Development,Research Scientist,4787,Yes,4,2,Married,0.5673444158949755,1,1
+41,Research & Development,Research Scientist,2107,No,1,1,Divorced,0.5659296776237445,1,1
+33,Human Resources,Human Resources,2277,Yes,2,4,Divorced,0.5649323518672265,0,1
+28,Sales,Sales Representative,1052,No,2,1,Married,0.5624364103377808,0,1
+33,Research & Development,Research Scientist,2909,Yes,3,8,Married,0.5576116466288681,0,1
+42,Research & Development,Laboratory Technician,2766,No,2,5,Divorced,0.5540755253191672,0,1
+32,Research & Development,Research Scientist,3433,No,3,5,Married,0.5387470404011431,0,1
+31,Research & Development,Laboratory Technician,4197,No,3,10,Divorced,0.5292960956319017,0,1
+26,Human Resources,Human Resources,2148,Yes,2,5,Married,0.5218703418137137,1,1
+30,Research & Development,Manufacturing Director,6877,Yes,4,0,Single,0.5208938579977261,0,1
+34,Research & Development,Laboratory Technician,2008,No,2,1,Divorced,0.5185488924838005,0,1
+31,Research & Development,Laboratory Technician,1129,Yes,4,1,Divorced,0.5129404195573438,0,1
+31,Research & Development,Research Scientist,3929,Yes,4,4,Married,0.5072511514763087,0,1
+31,Research & Development,Manufacturing Director,6179,Yes,3,10,Married,0.5025894087743936,1,1
+33,Sales,Sales Executive,4373,No,1,4,Married,0.4947590268489583,0,0
+26,Research & Development,Research Scientist,2933,Yes,3,1,Married,0.49151296950029777,0,0
+31,Sales,Sales Representative,2789,No,2,2,Divorced,0.48913694853110146,0,0
+27,Research & Development,Manufacturing Director,6142,Yes,2,6,Married,0.48382015923342897,0,0
+50,Research & Development,Laboratory Technician,2380,No,4,1,Married,0.4819349839074997,0,0
+35,Research & Development,Manufacturing Director,9362,No,4,2,Single,0.47877888468091595,0,0
+37,Research & Development,Research Scientist,2782,Yes,1,5,Divorced,0.47824931135234267,0,0
+49,Sales,Sales Executive,13120,No,2,9,Married,0.47479090214490827,0,0
+30,Research & Development,Research Scientist,2141,No,2,6,Married,0.47288769520864943,0,0
+44,Research & Development,Laboratory Technician,2362,No,1,3,Married,0.4713457193518036,1,0
+35,Research & Development,Research Scientist,4930,Yes,4,5,Single,0.4620336332197761,0,0
+31,Sales,Sales Executive,5468,No,4,12,Married,0.4583158375543021,0,0
+31,Sales,Sales Executive,5332,No,1,5,Single,0.45810971574027287,0,0
+41,Research & Development,Research Scientist,2127,Yes,3,4,Married,0.4513267447780021,0,0
+41,Research & Development,Manager,17181,No,1,7,Divorced,0.44401602717506505,0,0
+24,Research & Development,Research Scientist,2725,Yes,4,6,Married,0.4397555533388152,0,0
+28,Research & Development,Healthcare Representative,8722,No,1,10,Single,0.43852985567999564,1,0
+24,Research & Development,Laboratory Technician,2127,No,2,1,Married,0.4299606182414171,0,0
+44,Research & Development,Laboratory Technician,3708,No,3,5,Single,0.422402377235173,0,0
+36,Research & Development,Manufacturing Director,6499,No,2,6,Single,0.4111142671863324,0,0
+29,Research & Development,Healthcare Representative,6294,Yes,3,3,Single,0.40771041308948147,0,0
+36,Sales,Sales Executive,5507,No,2,4,Married,0.4043709991286592,0,0
+41,Human Resources,Manager,19141,No,4,21,Divorced,0.4011406090671963,0,0
+40,Research & Development,Laboratory Technician,2387,No,2,4,Married,0.3994760292374462,0,0
+27,Sales,Sales Representative,3540,No,3,9,Married,0.39892436385702923,0,0
+35,Research & Development,Laboratory Technician,2426,No,2,5,Married,0.3935648909428331,0,0
+51,Research & Development,Manufacturing Director,10650,No,4,4,Single,0.3926118974659519,1,0
+33,Research & Development,Research Scientist,2686,Yes,4,10,Single,0.377597426762834,1,0
+40,Research & Development,Manufacturing Director,13237,No,3,20,Single,0.3764432973553716,0,0
+34,Research & Development,Laboratory Technician,4404,No,3,4,Married,0.3674139180310252,0,0
+35,Research & Development,Healthcare Representative,6540,No,2,1,Single,0.36452464191198247,0,0
+25,Sales,Sales Executive,4907,Yes,3,5,Divorced,0.3610523630249522,0,0
+29,Research & Development,Healthcare Representative,4335,No,3,8,Married,0.3588606511944972,0,0
+43,Research & Development,Manager,19392,No,3,16,Married,0.34881018686619375,0,0
+45,Research & Development,Research Scientist,4477,Yes,3,3,Married,0.34866925378193686,0,0
+34,Sales,Sales Executive,9713,Yes,4,5,Married,0.3468387366141204,0,0
+34,Research & Development,Research Director,17007,No,1,14,Divorced,0.33450928018234033,0,0
+36,Research & Development,Manufacturing Director,8858,No,4,14,Single,0.33412898237558114,0,0
+29,Research & Development,Manufacturing Director,5056,Yes,4,10,Married,0.3330998639436997,0,0
+31,Human Resources,Human Resources,2109,No,2,3,Single,0.3276593804393924,0,0
+34,Research & Development,Manufacturing Director,4724,No,4,9,Divorced,0.32707470991861504,0,0
+26,Research & Development,Research Scientist,3102,No,1,6,Single,0.32339058178117613,1,0
+43,Research & Development,Research Scientist,2438,No,3,3,Single,0.3188429411072068,0,0
+27,Research & Development,Research Scientist,2318,No,3,1,Single,0.31752440281750643,0,0
+58,Research & Development,Research Scientist,2479,No,3,1,Single,0.3173432714879327,1,0
+42,Research & Development,Manufacturing Director,4434,No,2,9,Married,0.3119621093873048,0,0
+51,Research & Development,Research Scientist,2461,Yes,3,10,Married,0.31153448357494734,1,0
+24,Sales,Sales Representative,2033,No,2,1,Married,0.29806000292871143,0,0
+30,Research & Development,Laboratory Technician,3491,No,3,10,Divorced,0.2907853791583057,0,0
+35,Research & Development,Healthcare Representative,9884,Yes,1,4,Married,0.2907403557381381,0,0
+29,Research & Development,Research Scientist,2109,No,1,1,Divorced,0.2878835952751407,0,0
+18,Research & Development,Research Scientist,1514,No,3,0,Single,0.2860257442706649,0,0
+45,Research & Development,Research Scientist,2274,No,3,1,Single,0.2846855294609443,0,0
+41,Research & Development,Laboratory Technician,2238,No,1,5,Married,0.2843701427748557,0,0
+31,Sales,Sales Executive,9852,Yes,3,10,Divorced,0.28436319587570635,0,0
+30,Research & Development,Laboratory Technician,4011,No,4,12,Single,0.2806793411813789,0,0
+29,Research & Development,Laboratory Technician,2974,No,3,5,Married,0.2782612004465635,0,0
+28,Research & Development,Research Scientist,3201,No,2,5,Married,0.2769214140095151,0,0
+40,Research & Development,Manufacturing Director,6516,Yes,1,1,Married,0.2750306532488399,0,0
+38,Research & Development,Laboratory Technician,2288,No,4,2,Single,0.27455121682121053,0,0
+22,Research & Development,Laboratory Technician,2935,Yes,4,1,Divorced,0.2722453169526743,0,0
+31,Sales,Manager,11557,No,4,5,Divorced,0.2698372426294136,0,0
+32,Research & Development,Research Scientist,2439,No,1,4,Single,0.26339761271862605,0,0
+32,Sales,Sales Executive,9204,No,4,4,Married,0.2569854751527738,0,0
+26,Research & Development,Laboratory Technician,2544,No,4,7,Married,0.25694054893840873,0,0
+34,Research & Development,Research Scientist,2960,No,1,4,Single,0.25518992195812296,1,0
+26,Research & Development,Research Scientist,2061,No,4,1,Married,0.23935297204196707,0,0
+43,Sales,Sales Executive,7847,Yes,4,10,Married,0.2385038236352952,0,0
+37,Sales,Sales Executive,9525,No,4,6,Divorced,0.23773752984846322,0,0
+50,Human Resources,Manager,18200,No,2,32,Married,0.2334413149690667,0,0
+42,Sales,Sales Executive,6825,No,2,9,Married,0.23325746111669907,0,0
+39,Sales,Sales Executive,5736,No,3,3,Married,0.22703163785045818,0,0
+39,Research & Development,Laboratory Technician,3755,No,3,8,Married,0.22666129204977603,0,0
+30,Research & Development,Laboratory Technician,3833,No,3,2,Married,0.226511163365519,0,0
+26,Sales,Sales Executive,6272,No,2,5,Married,0.2254039659366922,0,0
+36,Research & Development,Laboratory Technician,2810,No,2,5,Married,0.21840721936888943,0,0
+35,Research & Development,Manufacturing Director,10274,No,2,7,Divorced,0.217173963663216,0,0
+31,Research & Development,Research Scientist,5003,No,1,10,Married,0.21518691750964533,0,0
+43,Research & Development,Laboratory Technician,5257,No,3,9,Divorced,0.20938438407639967,0,0
+41,Sales,Sales Executive,8392,No,1,10,Married,0.20806403334384813,0,0
+44,Research & Development,Healthcare Representative,5933,No,2,5,Single,0.20145445820806263,0,0
+56,Sales,Sales Executive,5380,No,1,0,Married,0.1970811332968191,0,0
+32,Research & Development,Research Scientist,3038,No,3,5,Single,0.1885425717549522,0,0
+26,Research & Development,Research Scientist,3904,No,4,4,Single,0.1879713074989925,0,0
+25,Research & Development,Research Scientist,2096,No,2,2,Single,0.18785892513190508,0,0
+27,Research & Development,Laboratory Technician,2341,No,1,1,Divorced,0.18620270811746217,0,0
+29,Research & Development,Research Scientist,2058,No,3,6,Single,0.18430403010978394,1,0
+34,Research & Development,Research Scientist,2929,No,4,10,Married,0.18397546387559166,0,0
+21,Research & Development,Research Scientist,2693,No,4,1,Single,0.17960159556298208,1,0
+37,Sales,Sales Executive,6694,Yes,4,1,Divorced,0.17816381642027526,0,0
+39,Research & Development,Laboratory Technician,2232,No,3,3,Divorced,0.17692543677090083,0,0
+28,Sales,Sales Executive,5253,No,4,7,Single,0.17350787466983572,0,0
+28,Research & Development,Manufacturing Director,6549,No,2,8,Married,0.17207599688985617,0,0
+36,Research & Development,Manufacturing Director,4941,No,2,3,Divorced,0.1704523116065971,0,0
+32,Sales,Sales Representative,2827,No,1,1,Divorced,0.17025613583237506,0,0
+39,Research & Development,Manufacturing Director,8376,No,2,2,Single,0.16617715560243582,0,0
+27,Sales,Sales Executive,4105,No,4,7,Single,0.16592363536959248,0,0
+46,Sales,Manager,16606,No,2,13,Married,0.16189258856237462,0,0
+37,Research & Development,Healthcare Representative,4107,No,2,4,Single,0.15991531722259175,0,0
+49,Research & Development,Laboratory Technician,3211,No,1,9,Married,0.15819383065965623,0,0
+34,Research & Development,Manufacturing Director,5957,No,1,11,Married,0.15298064328304403,0,0
+34,Sales,Sales Executive,4759,No,1,13,Single,0.15214549704021293,0,0
+30,Research & Development,Laboratory Technician,3072,No,1,12,Divorced,0.15187504539407193,0,0
+33,Research & Development,Healthcare Representative,5488,Yes,2,6,Married,0.14926544010172027,0,0
+32,Research & Development,Research Scientist,3298,Yes,2,6,Divorced,0.14792408919424704,0,0
+34,Research & Development,Research Scientist,5484,No,4,2,Married,0.14737672275559208,0,0
+32,Sales,Sales Executive,4465,No,4,3,Married,0.146776419021211,0,0
+23,Research & Development,Research Scientist,2904,No,4,4,Divorced,0.1451609915703067,0,0
+52,Sales,Sales Representative,3482,No,4,9,Divorced,0.14416366964591956,0,0
+45,Research & Development,Healthcare Representative,5399,No,3,4,Single,0.14407399757854658,0,0
+34,Research & Development,Research Scientist,4505,No,2,1,Divorced,0.14035848668234646,0,0
+41,Research & Development,Laboratory Technician,4721,Yes,1,18,Single,0.1396436751670352,0,0
+54,Research & Development,Research Scientist,2897,No,3,4,Married,0.13938284109047286,0,0
+33,Research & Development,Research Scientist,2911,No,4,2,Married,0.1347062834422621,0,0
+50,Research & Development,Research Director,19237,Yes,3,8,Married,0.13237689758355217,0,0
+36,Sales,Sales Executive,6201,Yes,4,18,Married,0.13176408387844388,0,0
+27,Sales,Sales Executive,6500,No,3,8,Single,0.13084970062741869,0,0
+41,Research & Development,Research Scientist,3072,No,1,1,Divorced,0.12886040453863984,0,0
+27,Research & Development,Research Scientist,2279,No,2,7,Single,0.12631197146527182,0,0
+43,Sales,Sales Executive,6804,No,4,2,Married,0.12508384380738405,0,0
+31,Research & Development,Research Director,13675,No,3,2,Divorced,0.1234403466928927,0,0
+56,Human Resources,Manager,19717,No,2,7,Single,0.1216100828118994,0,0
+21,Research & Development,Research Scientist,3230,No,3,3,Single,0.12160602927130731,0,0
+37,Research & Development,Research Director,13664,No,3,5,Single,0.12149895519163811,0,0
+25,Research & Development,Laboratory Technician,3669,No,4,3,Married,0.11923440009855951,0,0
+24,Research & Development,Manufacturing Director,4377,No,3,4,Divorced,0.11770461696591615,0,0
+46,Research & Development,Healthcare Representative,10527,No,3,2,Married,0.11629077334326296,0,0
+37,Research & Development,Research Scientist,4680,No,4,1,Single,0.1033919182252306,0,0
+38,Research & Development,Research Scientist,2821,No,3,2,Married,0.10155234662817218,0,0
+39,Research & Development,Manufacturing Director,5295,No,2,5,Married,0.10135700318668482,0,0
+51,Research & Development,Manufacturing Director,6132,No,3,1,Married,0.09805138811848851,0,0
+41,Sales,Manager,16015,No,2,22,Single,0.09722783821317432,0,0
+28,Research & Development,Research Scientist,2377,No,3,2,Divorced,0.0952260924855988,0,0
+59,Research & Development,Research Scientist,2177,No,4,1,Married,0.09494241481235142,0,0
+59,Sales,Sales Executive,5171,No,4,6,Single,0.08942562533710123,0,0
+36,Sales,Sales Executive,9738,No,4,9,Married,0.08913867681055733,0,0
+37,Research & Development,Manufacturing Director,7491,No,4,6,Single,0.08900457808614383,0,0
+46,Sales,Sales Executive,10453,No,1,24,Divorced,0.08629272262494372,0,0
+41,Research & Development,Healthcare Representative,6811,Yes,3,8,Single,0.08374768915735292,0,0
+59,Research & Development,Manufacturing Director,10512,No,4,9,Single,0.08063079287389546,0,0
+30,Human Resources,Human Resources,2064,No,3,5,Divorced,0.08043493967244746,0,0
+26,Research & Development,Laboratory Technician,4420,No,4,8,Married,0.07730668162033985,0,0
+22,Research & Development,Research Scientist,2323,No,4,2,Married,0.07569432145691017,0,0
+38,Sales,Sales Executive,10609,No,3,16,Divorced,0.07467152808366834,0,0
+55,Research & Development,Manager,19187,No,3,19,Married,0.06992719515405874,0,0
+35,Research & Development,Research Scientist,2506,No,3,2,Single,0.06967899136692231,0,0
+37,Human Resources,Human Resources,4071,No,2,10,Divorced,0.06147337922331578,0,0
+33,Sales,Sales Executive,5147,No,2,11,Single,0.0602965616983545,0,0
+43,Research & Development,Healthcare Representative,7510,No,3,10,Married,0.060281816231512804,0,0
+52,Research & Development,Manufacturing Director,7969,Yes,3,5,Married,0.05978436412777615,0,0
+55,Research & Development,Research Director,19038,No,1,1,Married,0.059746279546350256,0,0
+42,Human Resources,Human Resources,6272,No,1,4,Married,0.05859642197399313,0,0
+51,Research & Development,Research Director,19537,No,3,20,Single,0.0569043964346572,0,0
+56,Research & Development,Research Scientist,2066,No,1,3,Married,0.056225153571166385,0,0
+45,Research & Development,Manufacturing Director,5906,No,4,9,Married,0.05371186210970482,0,0
+43,Sales,Manager,16064,Yes,4,17,Married,0.05331663474606012,0,0
+49,Sales,Sales Executive,5390,No,2,9,Married,0.053109238217653246,0,0
+35,Sales,Sales Executive,7823,No,4,10,Divorced,0.0520864197981042,0,0
+46,Sales,Manager,18789,No,2,11,Married,0.05140252566143358,0,0
+27,Research & Development,Research Scientist,3445,No,4,6,Single,0.050724340294178764,0,0
+41,Research & Development,Research Director,19545,No,3,22,Married,0.04781226888997027,1,0
+41,Human Resources,Manager,19189,No,3,22,Married,0.04749068140403138,0,0
+38,Sales,Sales Executive,5343,No,4,10,Married,0.045325436750609384,0,0
+42,Research & Development,Manager,19232,No,4,22,Married,0.0436926406343319,0,0
+52,Research & Development,Manager,19999,No,3,33,Married,0.04343855962814701,0,0
+51,Research & Development,Healthcare Representative,13734,No,2,7,Single,0.04292383180364923,0,0
+36,Sales,Sales Executive,5406,No,4,15,Divorced,0.04089216972478864,0,0
+37,Research & Development,Manufacturing Director,6347,No,4,6,Divorced,0.03988015003578538,0,0
+38,Sales,Sales Executive,4440,No,2,15,Married,0.03766763931628248,0,0
+44,Research & Development,Research Scientist,2011,No,4,10,Married,0.03710093149596474,0,0
+28,Research & Development,Research Scientist,3591,No,1,3,Married,0.0360992040359711,0,0
+43,Human Resources,Human Resources,3539,No,4,9,Single,0.03492616978810948,0,0
+35,Research & Development,Research Scientist,2977,No,4,4,Married,0.032517195738970245,0,0
+38,Sales,Sales Executive,5249,No,4,8,Married,0.03251716935816286,0,0
+33,Research & Development,Laboratory Technician,2028,No,2,14,Married,0.03102839925986323,0,0
+39,Sales,Sales Executive,5902,No,3,15,Married,0.030873094507790456,0,0
+29,Research & Development,Research Scientist,2700,No,3,10,Married,0.030292458915484547,0,0
+46,Research & Development,Manufacturing Director,8578,No,4,9,Divorced,0.030013715424534133,0,0
+44,Research & Development,Research Director,16328,No,1,20,Married,0.02758034960889375,0,0
+37,Research & Development,Research Scientist,2115,No,4,17,Single,0.02742373203841865,0,0
+43,Research & Development,Research Director,14336,No,2,25,Divorced,0.027226610645869318,0,0
+56,Research & Development,Research Scientist,2942,No,3,5,Married,0.024995358079556607,0,0
+34,Sales,Sales Executive,4001,Yes,3,15,Divorced,0.024970874335805797,0,0
+40,Research & Development,Healthcare Representative,4069,Yes,4,2,Divorced,0.023886322285765604,0,0
+28,Research & Development,Research Scientist,2044,No,4,5,Married,0.02373446470206403,0,0
+44,Research & Development,Manager,19190,No,1,25,Divorced,0.023471152596003287,0,0
+37,Research & Development,Research Director,12185,Yes,4,10,Divorced,0.022971756403172373,0,0
+36,Research & Development,Laboratory Technician,3210,No,4,15,Married,0.021782539873381388,0,0
+44,Research & Development,Healthcare Representative,5033,No,1,2,Married,0.020811522242836892,0,0
+35,Research & Development,Research Scientist,5208,No,1,16,Married,0.020325156282082747,0,0
+58,Research & Development,Healthcare Representative,10312,No,4,40,Married,0.020274638437051615,1,0
+28,Research & Development,Research Scientist,3660,No,3,8,Single,0.01803867240728132,0,0
+40,Research & Development,Healthcare Representative,6377,No,3,12,Divorced,0.016531118144117955,0,0
+33,Research & Development,Research Director,16184,No,3,6,Divorced,0.016325486006170745,0,0
+38,Research & Development,Healthcare Representative,9824,No,3,1,Married,0.015990399128366615,0,0
+35,Research & Development,Manufacturing Director,6883,No,3,7,Married,0.014964355616131395,0,0
+53,Research & Development,Research Director,14275,No,4,12,Single,0.012869289639984948,0,0
+43,Research & Development,Research Director,19740,No,4,8,Married,0.011894666654017698,0,0
+46,Research & Development,Research Director,19627,No,4,2,Divorced,0.011303245997249198,0,0
+53,Research & Development,Manager,19094,No,3,14,Divorced,0.01018400229280613,0,0
+50,Research & Development,Manager,17856,No,1,2,Married,0.009938653300369723,0,0
+53,Research & Development,Manufacturing Director,10169,No,4,33,Married,0.009193590671059822,1,0
+32,Research & Development,Research Scientist,5470,No,2,9,Divorced,0.00909255602208313,0,0
+45,Sales,Manager,17650,No,4,9,Married,0.008743448859474935,0,0
+58,Research & Development,Research Director,19701,Yes,1,9,Married,0.008546975840959046,0,0
+40,Research & Development,Research Director,19436,No,3,21,Divorced,0.006947596736228214,0,0
+49,Research & Development,Healthcare Representative,10466,No,2,8,Divorced,0.0061322329052773275,0,0
+35,Research & Development,Healthcare Representative,5093,No,1,1,Divorced,0.004588105624156182,0,0
+37,Research & Development,Healthcare Representative,5163,No,4,1,Divorced,0.00349210100289189,0,0
+40,Research & Development,Research Director,13757,No,2,9,Divorced,0.002584612322121632,0,0
+35,Research & Development,Manufacturing Director,5762,No,4,7,Divorced,0.0010960099022491458,0,0

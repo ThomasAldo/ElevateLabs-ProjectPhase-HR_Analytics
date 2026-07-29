@@ -1,0 +1,11 @@
+EmployeeNumber,Age,Department,JobRole,MonthlyIncome,OverTime,JobSatisfaction,YearsAtCompany,MaritalStatus,Attrition_Probability,Actual_Attrition,Predicted_Attrition
+478,21,Sales,Sales Representative,2174,Yes,2,3,Single,0.9914551430255442,1,1
+1273,25,Sales,Sales Representative,1118,Yes,4,1,Single,0.9860472441109255,1,1
+959,19,Sales,Sales Representative,2121,Yes,2,1,Single,0.9755423923769763,1,1
+1318,40,Sales,Sales Executive,9094,Yes,2,5,Single,0.9643194509579548,1,1
+1053,26,Research & Development,Research Scientist,2042,Yes,1,3,Married,0.9564526688117924,1,1
+47,50,Sales,Sales Representative,2683,Yes,3,3,Married,0.9295655398198613,1,1
+702,33,Research & Development,Research Scientist,3348,Yes,1,10,Single,0.9179860193016456,1,1
+175,31,Sales,Sales Executive,4559,Yes,3,2,Married,0.915014115759731,1,1
+1157,33,Sales,Sales Executive,8224,Yes,1,5,Single,0.9145333624813475,1,1
+1439,25,Sales,Sales Representative,4400,No,1,3,Married,0.9097490008964215,1,1
